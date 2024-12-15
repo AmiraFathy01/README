@@ -1,6 +1,6 @@
 # README
 <h1 align="center">Hi 👋, I'm Eng. Amira Fathy</h1>
-<h3 align="center">An Ai Engineer and machine learning developer from Egypt</h3>
+<h3 align="center">An Ai engineer and machine learning engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirafathy01&label=Profile%20views&color=0e75b6&style=flat" alt="amirafathy01" /> </p>
 
